@@ -3,7 +3,17 @@ entries:
   customers:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-26T20:14:46.5617864-05:00"
+    created: "2020-04-26T20:22:07.4390225-05:00"
+    description: Customers template
+    digest: 1b17e7e8a5a9bf2b07c2d77cfcb22e52a02d4652b7baead9948430cbe0581f36
+    name: customers
+    type: application
+    urls:
+    - https://msalvadorp.github.io/helmrepo/customers-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-26T20:22:07.4390225-05:00"
     description: Customers template
     digest: 15e1d7fade3900752b018c754c07215408f57230668fe0351a44ef01dccebea7
     name: customers
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://msalvadorp.github.io/helmrepo/customers-1.0.2.tgz
     version: 1.0.2
-generated: "2020-04-26T20:14:46.5607898-05:00"
+generated: "2020-04-26T20:22:07.4380189-05:00"
